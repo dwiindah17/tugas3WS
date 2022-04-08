@@ -1,5 +1,5 @@
 # 6A/19090054/Dwi Indah Fitria Sari
-# 6A/190900130/Novita Fitria Putri
+# 6D/19090130/Novita Fitria Putri
 
 from flask import Flask, jsonify,request,flash,redirect
 from itsdangerous import json
